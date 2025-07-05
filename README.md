@@ -1,32 +1,32 @@
 # Flutter Android App
 
-This repository contains a Flutter-based Android application project. I created this project using  cursor IDE to upload and organize the files — I believe in being transparent about my process, as honesty builds genuine trust and demonstrates my commitment to straightforward problem-solving.
+This repository contains a Flutter-based Android application project. I created this project using the **Cursor IDE** to upload and organize the files. I believe in being fully transparent: I do not know Dart yet — this project is part of my learning process, and I plan to build solid Dart skills as I develop more Flutter apps.
+
+I also want to make it clear that I do **not** rely entirely on AI for my coding. I write my own code too, and use AI tools only where they genuinely help streamline parts of the workflow.
 
 ## How to Set Up
 
-If you want to run this project or build on top of it, follow these steps:
+If you’d like to run this project or build on top of it, here’s how to get started:
 
 1. **Install Flutter**
 
-   Follow the official instructions to install Flutter: [https://flutter.dev/](https://flutter.dev/)
+   Follow the official instructions: [https://flutter.dev/](https://flutter.dev/)
 
-   Make sure to set up your environment variables and run:
+   Verify your setup:
 
    ```bash
    flutter doctor
    ```
 
-   to verify your installation.
+2. **Install Android Studio**
 
-2. **Set Up Android Studio**
+   For a complete development environment: [https://developer.android.com/studio](https://developer.android.com/studio)
 
-   Install Android Studio for a complete IDE setup: [https://developer.android.com/studio](https://developer.android.com/studio)
-
-   Make sure you have the Android SDK and an emulator or physical device configured.
+   Ensure you have the Android SDK and an emulator or physical device ready.
 
 3. **Create a New Flutter Project**
 
-   Open your terminal and run:
+   In your terminal:
 
    ```bash
    flutter create your_project_name
@@ -34,7 +34,7 @@ If you want to run this project or build on top of it, follow these steps:
 
 4. **Replace Files**
 
-   Replace the default `android/`, `lib/`, `test/` folders and the `pubspec.yaml` in your new project with the files from this repository.
+   Replace the generated `android/`, `lib/`, `test/` folders and the `pubspec.yaml` with the ones from this repository.
 
 5. **Get Dependencies**
 
@@ -46,7 +46,7 @@ If you want to run this project or build on top of it, follow these steps:
 
 6. **Run the App**
 
-   To launch the app, use:
+   Finally, launch the app:
 
    ```bash
    flutter run
@@ -56,4 +56,4 @@ If you want to run this project or build on top of it, follow these steps:
 
 ## About This Project
 
-This project demonstrates my ability to set up, configure, and manage a Flutter Android application structure, while maintaining an honest and straightforward workflow.
+This project reflects my practical approach — setting things up hands-on, learning new stacks step by step, and being transparent about my current skill set and goals.
