@@ -1,6 +1,6 @@
 # Flutter Android App
 
-This repository contains a Flutter-based Android application project. I created this project using a cursor to upload and organize the files — I believe in being transparent about my process, as honesty builds genuine trust and demonstrates my commitment to straightforward problem-solving.
+This repository contains a Flutter-based Android application project. I created this project using  cursor IDE to upload and organize the files — I believe in being transparent about my process, as honesty builds genuine trust and demonstrates my commitment to straightforward problem-solving.
 
 ## How to Set Up
 
